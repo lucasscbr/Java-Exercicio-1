@@ -1,5 +1,7 @@
 # Java-Exercicio-1
 
+Lucas Santos Costa 081190015
+
   Perguntei a um amigo que já usou java qual era IDE ele recomendava usar, ele disse NetBeans então é a que experimentei.
   Baixei e instalei o NetBeans e ocorreu tudo normal, exceto que não conseguia criar projetos, então fui em Activate Features e la achei um Java SE, após ativalo consegui criar o projeto.
   Dando início a conversão do código encontrei algumas diferenças pro C#:
